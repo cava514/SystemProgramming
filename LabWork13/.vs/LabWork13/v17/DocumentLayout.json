@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\LabWork13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69560CA0-EE5E-4A06-A4F4-AD40484277FF}|LabWork13\\LabWork13Server.csproj|c:\\users\\221\\students\\ispp-45\\systemprogramming\\labwork13\\labwork13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69560CA0-EE5E-4A06-A4F4-AD40484277FF}|LabWork13\\LabWork13Server.csproj|solutionrelative:labwork13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A29AE3-8374-4FCA-A0DC-2A052A1E5FA4}|LabWork13Client\\LabWork13Client.csproj|c:\\users\\221\\students\\ispp-45\\systemprogramming\\labwork13\\labwork13client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A29AE3-8374-4FCA-A0DC-2A052A1E5FA4}|LabWork13Client\\LabWork13Client.csproj|solutionrelative:labwork13client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69560CA0-EE5E-4A06-A4F4-AD40484277FF}|LabWork13\\LabWork13Server.csproj|c:\\users\\221\\students\\ispp-45\\systemprogramming\\labwork13\\labwork13\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{69560CA0-EE5E-4A06-A4F4-AD40484277FF}|LabWork13\\LabWork13Server.csproj|solutionrelative:labwork13\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 377,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\LabWork13\\LabWork13\\TextFile1.txt",
+              "RelativeDocumentMoniker": "LabWork13\\TextFile1.txt",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\LabWork13\\LabWork13\\TextFile1.txt",
+              "RelativeToolTip": "LabWork13\\TextFile1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-24T07:55:28.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\LabWork13\\LabWork13Client\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork13Client\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\LabWork13\\LabWork13Client\\Program.cs",
+              "RelativeToolTip": "LabWork13Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:35:50.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\LabWork13\\LabWork13\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork13\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\LabWork13\\LabWork13\\Program.cs",
+              "RelativeToolTip": "LabWork13\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:24:19.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

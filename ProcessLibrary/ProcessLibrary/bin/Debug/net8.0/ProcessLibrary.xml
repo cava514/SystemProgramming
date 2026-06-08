@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProcessLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:ProcessLibrary.Tasklist">
+            <summary>
+            Класс для вывода инофрмации о процессах
+            </summary>
+        </member>
+        <member name="M:ProcessLibrary.Tasklist.GetThreadAliveAll">
+            <summary>
+            Метод для вывода всех запущенных процессов
+            </summary>
+        </member>
+        <member name="M:ProcessLibrary.Tasklist.GetThreadByMaxId">
+            <summary>
+            Метод для поиска процесса по максимальному индетификатору
+            </summary>
+        </member>
+        <member name="M:ProcessLibrary.Tasklist.GetThreadByName(System.String)">
+            <summary>
+            Метод для вывода информации о процессе по его имени
+            </summary>
+            <param name="name">Имя процесса</param>
+        </member>
+        <member name="M:ProcessLibrary.Tasklist.StartingANewProcess(System.String)">
+            <summary>
+            Метод для запуска нового процесса
+            </summary>
+            <param name="name">Имя нового процесса</param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\LabWorks9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{203B8204-3C4A-41E3-87CF-BE1F05342545}|WpfAppLabWork9\\WpfAppLabWork9.csproj|c:\\users\\221\\students\\ispp-45\\systemprogramming\\labworks9\\wpfapplabwork9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203B8204-3C4A-41E3-87CF-BE1F05342545}|WpfAppLabWork9\\WpfAppLabWork9.csproj|solutionrelative:wpfapplabwork9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203B8204-3C4A-41E3-87CF-BE1F05342545}|WpfAppLabWork9\\WpfAppLabWork9.csproj|c:\\users\\221\\students\\ispp-45\\systemprogramming\\labworks9\\wpfapplabwork9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{203B8204-3C4A-41E3-87CF-BE1F05342545}|WpfAppLabWork9\\WpfAppLabWork9.csproj|solutionrelative:wpfapplabwork9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D384B24B-9A03-4D48-8EEE-FEDE654EC3CB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\221\\students\\ispp-45\\systemprogramming\\labworks9\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D384B24B-9A03-4D48-8EEE-FEDE654EC3CB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D722FA3-50AA-4A8E-96ED-2088A86545E6}|LabWorks9\\LabWorks9.csproj|c:\\users\\221\\students\\ispp-45\\systemprogramming\\labworks9\\labworks9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D722FA3-50AA-4A8E-96ED-2088A86545E6}|LabWorks9\\LabWorks9.csproj|solutionrelative:labworks9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 377,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\LabWorks9\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\LabWorks9\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:15:36.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\LabWorks9\\WpfAppLabWork9\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppLabWork9\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\LabWorks9\\WpfAppLabWork9\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppLabWork9\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-11T09:53:00.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\LabWorks9\\WpfAppLabWork9\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppLabWork9\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\LabWorks9\\WpfAppLabWork9\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppLabWork9\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:52:59.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\LabWorks9\\LabWorks9\\Form1.cs",
+              "RelativeDocumentMoniker": "LabWorks9\\Form1.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\LabWorks9\\LabWorks9\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "LabWorks9\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:47:00.254Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

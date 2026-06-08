@@ -1,0 +1,14 @@
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13\bin\Debug\net8.0\LabWork13Server.exe
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13\bin\Debug\net8.0\LabWork13Server.deps.json
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13\bin\Debug\net8.0\LabWork13Server.runtimeconfig.json
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13\bin\Debug\net8.0\LabWork13Server.dll
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13\bin\Debug\net8.0\LabWork13Server.pdb
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13\obj\Debug\net8.0\LabWork13Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13\obj\Debug\net8.0\LabWork13Server.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13\obj\Debug\net8.0\LabWork13Server.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13\obj\Debug\net8.0\LabWork13Server.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13\obj\Debug\net8.0\LabWork13Server.dll
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13\obj\Debug\net8.0\refint\LabWork13Server.dll
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13\obj\Debug\net8.0\LabWork13Server.pdb
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13\obj\Debug\net8.0\LabWork13Server.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13\obj\Debug\net8.0\ref\LabWork13Server.dll

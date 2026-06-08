@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nn5ZgNg6CoE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\LabWork3\\LabWork3\\LabWork3.csproj",
+  "expectedPackageFiles": [
+    "C:\\NugetCache\\Packages\\castle.core\\5.2.1\\castle.core.5.2.1.nupkg.sha512",
+    "C:\\NugetCache\\Packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

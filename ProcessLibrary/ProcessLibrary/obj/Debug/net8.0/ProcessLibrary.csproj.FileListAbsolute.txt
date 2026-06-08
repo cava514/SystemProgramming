@@ -1,0 +1,13 @@
+C:\Users\221\Students\ISPP-45\SystemProgramming\ProcessLibrary\ProcessLibrary\bin\Debug\net8.0\ProcessLibrary.deps.json
+C:\Users\221\Students\ISPP-45\SystemProgramming\ProcessLibrary\ProcessLibrary\bin\Debug\net8.0\ProcessLibrary.dll
+C:\Users\221\Students\ISPP-45\SystemProgramming\ProcessLibrary\ProcessLibrary\bin\Debug\net8.0\ProcessLibrary.pdb
+C:\Users\221\Students\ISPP-45\SystemProgramming\ProcessLibrary\ProcessLibrary\obj\Debug\net8.0\ProcessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-45\SystemProgramming\ProcessLibrary\ProcessLibrary\obj\Debug\net8.0\ProcessLibrary.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-45\SystemProgramming\ProcessLibrary\ProcessLibrary\obj\Debug\net8.0\ProcessLibrary.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-45\SystemProgramming\ProcessLibrary\ProcessLibrary\obj\Debug\net8.0\ProcessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-45\SystemProgramming\ProcessLibrary\ProcessLibrary\obj\Debug\net8.0\ProcessLibrary.dll
+C:\Users\221\Students\ISPP-45\SystemProgramming\ProcessLibrary\ProcessLibrary\obj\Debug\net8.0\refint\ProcessLibrary.dll
+C:\Users\221\Students\ISPP-45\SystemProgramming\ProcessLibrary\ProcessLibrary\obj\Debug\net8.0\ProcessLibrary.pdb
+C:\Users\221\Students\ISPP-45\SystemProgramming\ProcessLibrary\ProcessLibrary\obj\Debug\net8.0\ref\ProcessLibrary.dll
+C:\Users\221\Students\ISPP-45\SystemProgramming\ProcessLibrary\ProcessLibrary\bin\Debug\net8.0\ProcessLibrary.xml
+C:\Users\221\Students\ISPP-45\SystemProgramming\ProcessLibrary\ProcessLibrary\obj\Debug\net8.0\ProcessLibrary.xml

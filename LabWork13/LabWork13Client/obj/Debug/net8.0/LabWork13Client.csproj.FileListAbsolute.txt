@@ -1,0 +1,14 @@
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13Client\bin\Debug\net8.0\LabWork13Client.exe
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13Client\bin\Debug\net8.0\LabWork13Client.deps.json
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13Client\bin\Debug\net8.0\LabWork13Client.runtimeconfig.json
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13Client\bin\Debug\net8.0\LabWork13Client.dll
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13Client\bin\Debug\net8.0\LabWork13Client.pdb
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13Client\obj\Debug\net8.0\LabWork13Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13Client\obj\Debug\net8.0\LabWork13Client.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13Client\obj\Debug\net8.0\LabWork13Client.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13Client\obj\Debug\net8.0\LabWork13Client.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13Client\obj\Debug\net8.0\LabWork13Client.dll
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13Client\obj\Debug\net8.0\refint\LabWork13Client.dll
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13Client\obj\Debug\net8.0\LabWork13Client.pdb
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13Client\obj\Debug\net8.0\LabWork13Client.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork13\LabWork13Client\obj\Debug\net8.0\ref\LabWork13Client.dll

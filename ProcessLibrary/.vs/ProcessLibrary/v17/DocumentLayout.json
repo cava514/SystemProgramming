@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\ProcessLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D1A3B9-AD12-4373-A641-295A28F46487}|LabWork4\\LabWork4.csproj|c:\\users\\221\\students\\ispp-45\\systemprogramming\\processlibrary\\labwork4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D1A3B9-AD12-4373-A641-295A28F46487}|LabWork4\\LabWork4.csproj|solutionrelative:labwork4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAE5E42-A342-4D0D-898F-985959A0E645}|ProcessLibrary\\ProcessLibrary.csproj|c:\\users\\221\\students\\ispp-45\\systemprogramming\\processlibrary\\processlibrary\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EAE5E42-A342-4D0D-898F-985959A0E645}|ProcessLibrary\\ProcessLibrary.csproj|solutionrelative:processlibrary\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\ProcessLibrary\\LabWork4\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork4\\Program.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\ProcessLibrary\\LabWork4\\Program.cs",
+              "RelativeToolTip": "LabWork4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T13:34:53.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tasklist.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\ProcessLibrary\\ProcessLibrary\\Tasklist.cs",
+              "RelativeDocumentMoniker": "ProcessLibrary\\Tasklist.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\ProcessLibrary\\ProcessLibrary\\Tasklist.cs",
+              "RelativeToolTip": "ProcessLibrary\\Tasklist.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAArwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T13:23:40.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

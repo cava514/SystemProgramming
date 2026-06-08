@@ -1,0 +1,10 @@
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork1\LabWork1\bin\Debug\LabWork1.exe.config
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork1\LabWork1\bin\Debug\LabWork1.exe
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork1\LabWork1\bin\Debug\LabWork1.pdb
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.AssemblyReference.cache
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork1\LabWork1\obj\Debug\LabWork1.Form1.resources
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork1\LabWork1\obj\Debug\LabWork1.Properties.Resources.resources
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.GenerateResource.cache
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork1\LabWork1\obj\Debug\LabWork1.exe
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork1\LabWork1\obj\Debug\LabWork1.pdb

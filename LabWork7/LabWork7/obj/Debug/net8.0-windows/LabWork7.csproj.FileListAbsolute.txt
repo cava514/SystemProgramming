@@ -1,0 +1,16 @@
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork7\LabWork7\bin\Debug\net8.0-windows\LabWork7.exe
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork7\LabWork7\bin\Debug\net8.0-windows\LabWork7.deps.json
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork7\LabWork7\bin\Debug\net8.0-windows\LabWork7.runtimeconfig.json
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork7\LabWork7\bin\Debug\net8.0-windows\LabWork7.dll
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork7\LabWork7\bin\Debug\net8.0-windows\LabWork7.pdb
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork7\LabWork7\obj\Debug\net8.0-windows\LabWork7.Form1.resources
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork7\LabWork7\obj\Debug\net8.0-windows\LabWork7.csproj.GenerateResource.cache
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork7\LabWork7\obj\Debug\net8.0-windows\LabWork7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork7\LabWork7\obj\Debug\net8.0-windows\LabWork7.AssemblyInfoInputs.cache
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork7\LabWork7\obj\Debug\net8.0-windows\LabWork7.AssemblyInfo.cs
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork7\LabWork7\obj\Debug\net8.0-windows\LabWork7.csproj.CoreCompileInputs.cache
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork7\LabWork7\obj\Debug\net8.0-windows\LabWork7.dll
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork7\LabWork7\obj\Debug\net8.0-windows\refint\LabWork7.dll
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork7\LabWork7\obj\Debug\net8.0-windows\LabWork7.pdb
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork7\LabWork7\obj\Debug\net8.0-windows\LabWork7.genruntimeconfig.cache
+C:\Users\221\Students\ISPP-45\SystemProgramming\LabWork7\LabWork7\obj\Debug\net8.0-windows\ref\LabWork7.dll
