@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\SystemProgramming\\LabWork27 \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7413A41F-20AD-323C-2516-A881FF7CCF57}|LabWork27\\LabWork27.csproj|c:\\users\\221\\students\\ispp-45\\systemprogramming\\systemprogramming\\labwork27 \u2014 \u043A\u043E\u043F\u0438\u044F\\labwork27\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7413A41F-20AD-323C-2516-A881FF7CCF57}|LabWork27\\LabWork27.csproj|solutionrelative:labwork27\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413A41F-20AD-323C-2516-A881FF7CCF57}|LabWork27\\LabWork27.csproj|c:\\users\\221\\students\\ispp-45\\systemprogramming\\systemprogramming\\labwork27 \u2014 \u043A\u043E\u043F\u0438\u044F\\labwork27\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7413A41F-20AD-323C-2516-A881FF7CCF57}|LabWork27\\LabWork27.csproj|solutionrelative:labwork27\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413A41F-20AD-323C-2516-A881FF7CCF57}|LabWork27\\LabWork27.csproj|c:\\users\\221\\students\\ispp-45\\systemprogramming\\systemprogramming\\labwork27 \u2014 \u043A\u043E\u043F\u0438\u044F\\labwork27\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7413A41F-20AD-323C-2516-A881FF7CCF57}|LabWork27\\LabWork27.csproj|solutionrelative:labwork27\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\SystemProgramming\\LabWork27 \u2014 \u043A\u043E\u043F\u0438\u044F\\LabWork27\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "LabWork27\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\SystemProgramming\\LabWork27 \u2014 \u043A\u043E\u043F\u0438\u044F\\LabWork27\\AssemblyInfo.cs",
+              "RelativeToolTip": "LabWork27\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T08:21:07.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\SystemProgramming\\LabWork27 \u2014 \u043A\u043E\u043F\u0438\u044F\\LabWork27\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork27\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\SystemProgramming\\LabWork27 \u2014 \u043A\u043E\u043F\u0438\u044F\\LabWork27\\MainWindow.xaml",
+              "RelativeToolTip": "LabWork27\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-09T07:24:19.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\SystemProgramming\\LabWork27 \u2014 \u043A\u043E\u043F\u0438\u044F\\LabWork27\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork27\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\SystemProgramming\\LabWork27 \u2014 \u043A\u043E\u043F\u0438\u044F\\LabWork27\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LabWork27\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T07:24:18.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

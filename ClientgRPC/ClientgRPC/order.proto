@@ -1,0 +1,46 @@
+﻿syntax = "proto3";
+ 
+import "google/protobuf/timestamp.proto";
+
+option csharp_namespace = "gRPC";
+
+package order;
+ 
+service orders{
+ 
+  rpc ListOrder(google.protobuf.timestamp) returns (ListReply);
+  rpc GetOrder(GetOrderRequest) returns (OrderReply);
+  rpc CreateOrder(CreateOrderRequest) returns (OrderReply);
+  rpc UpdateOrder(UpdateOrderRequest) returns (OrderReply);
+  rpc DeleteOrder(DeleteOrderRequest) returns (OrderReply);
+}
+ 
+message CreateOrderRequest{
+  int32 id = 1;
+  google.protobuf.timestamp dateTime = 2;
+  repeated productList = 3;
+}
+ 
+message GetOrderRequest{
+  int32 id =1;
+}
+ 
+message UpdateOrderRequest{
+  int32 id=1;
+  google.protobuf.timestamp dateTime = 2;
+  repeated productList = 3;
+}
+ 
+message DeleteOrderRequest{
+  int32 id =1;
+}
+ 
+message ListReply{
+  repeated OrderReply Orders = 1;
+}
+ 
+message OrderReply{
+  int32 id = 1;
+  google/protobuf/timestamp dateTime = 2;
+  repeated productList = 3;
+}
