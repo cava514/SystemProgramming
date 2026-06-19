@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{6B7757CF-CEFF-2A96-1FD9-554CFFE8C37E}|ClientgRPC\\ClientgRPC.csproj|solutionrelative:clientgrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6B7757CF-CEFF-2A96-1FD9-554CFFE8C37E}|ClientgRPC\\ClientgRPC.csproj|c:\\users\\221\\students\\ispp-45\\systemprogramming\\systemprogramming\\clientgrpc\\clientgrpc\\clientgrpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B7757CF-CEFF-2A96-1FD9-554CFFE8C37E}|ClientgRPC\\ClientgRPC.csproj|solutionrelative:clientgrpc\\clientgrpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7757CF-CEFF-2A96-1FD9-554CFFE8C37E}|ClientgRPC\\ClientgRPC.csproj|c:\\users\\221\\students\\ispp-45\\systemprogramming\\systemprogramming\\clientgrpc\\clientgrpc\\clientgrpc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6B7757CF-CEFF-2A96-1FD9-554CFFE8C37E}|ClientgRPC\\ClientgRPC.csproj|solutionrelative:clientgrpc\\clientgrpc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6B7757CF-CEFF-2A96-1FD9-554CFFE8C37E}|ClientgRPC\\ClientgRPC.csproj|c:\\users\\221\\students\\ispp-45\\systemprogramming\\systemprogramming\\clientgrpc\\clientgrpc\\order.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{6B7757CF-CEFF-2A96-1FD9-554CFFE8C37E}|ClientgRPC\\ClientgRPC.csproj|solutionrelative:clientgrpc\\order.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
@@ -18,11 +26,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientgRPC",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\SystemProgramming\\ClientgRPC\\ClientgRPC\\ClientgRPC.csproj",
+              "RelativeDocumentMoniker": "ClientgRPC\\ClientgRPC.csproj",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\SystemProgramming\\ClientgRPC\\ClientgRPC\\ClientgRPC.csproj",
+              "RelativeToolTip": "ClientgRPC\\ClientgRPC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-10T06:57:45.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ClientgRPC",
+              "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\SystemProgramming\\ClientgRPC\\ClientgRPC\\ClientgRPC.csproj",
+              "RelativeDocumentMoniker": "ClientgRPC\\ClientgRPC.csproj",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\SystemProgramming\\ClientgRPC\\ClientgRPC\\ClientgRPC.csproj",
+              "RelativeToolTip": "ClientgRPC\\ClientgRPC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-10T06:44:28.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "order.proto",
               "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\SystemProgramming\\ClientgRPC\\ClientgRPC\\order.proto",
               "RelativeDocumentMoniker": "ClientgRPC\\order.proto",
@@ -39,9 +72,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\SystemProgramming\\ClientgRPC\\ClientgRPC\\Program.cs",
               "RelativeDocumentMoniker": "ClientgRPC\\Program.cs",
-              "ToolTip": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\SystemProgramming\\ClientgRPC\\ClientgRPC\\Program.cs*",
-              "RelativeToolTip": "ClientgRPC\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\221\\Students\\ISPP-45\\SystemProgramming\\SystemProgramming\\ClientgRPC\\ClientgRPC\\Program.cs",
+              "RelativeToolTip": "ClientgRPC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-10T05:35:05.741Z",
               "EditorCaption": ""
